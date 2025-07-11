@@ -40,9 +40,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.cofounder.e.petvet.Login" />
-        <activity android:name="com.cofounder.e.petvet.Register" />
-        <activity android:name="com.cofounder.e.petvet.HomePage" />
         <activity android:name="com.cofounder.e.petvet.DrPurr" />
         <activity
             android:name="androidx.compose.ui.tooling.PreviewActivity"
